@@ -4,7 +4,7 @@ WooCommerce tabs plugin allows you to add tabs to the product pages that segrega
 
 #Prerequisites
 
-Wordpress must be installed, atleast 4.2.0
+Wordpress must be installed, atleast 4.2.0.
 WooCommerce must be installed.
 
 #Installation
